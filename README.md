@@ -1,1 +1,1 @@
-https://konstantinrezaev.github.io/module-2/
+https://konstantinrezaev.github.io/module-1/
